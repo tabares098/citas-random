@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import quotes from "../quotes.json";
-import Button from "./Button";
+
 
 
 
@@ -65,5 +65,3 @@ const Quote = () => {
 };
 
 export default Quote;
-/*
-*/
